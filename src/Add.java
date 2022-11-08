@@ -19,6 +19,8 @@ public class Add {
         System.out.print("How tall in you in centimeter: ");
         double higth = scanner.nextDouble();
         System.out.println("you are: " + higth + " centimeter tall.");
+
+        System.out.println("Hello hello");
     }
 
 }
