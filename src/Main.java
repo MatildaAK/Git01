@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hej hej");
         System.out.println("Hello world! Change from clone");
         System.out.println("Change again");
-        System.out.println("Himlen är blå");
+        System.out.println("Change 6");
     }
 }
