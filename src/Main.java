@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hej hej");
         System.out.println("Hello world! Change from clone");
         System.out.println("Change again");
-
-
+        System.out.println("Change 4 and 6");
+        System.out.println("Change 8");
     }
 }
