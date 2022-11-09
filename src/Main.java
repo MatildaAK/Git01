@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Change 4 and 6");
         System.out.println("Change 8");
         System.out.println("This is a new test");
+        System.out.println("Wohoooooo");
     }
 }
