@@ -4,6 +4,5 @@ public class Main {
         System.out.println("Sommar sommar och sol");
         System.out.println("Hej hej");
         System.out.println("Hello world! Change from clone");
-        System.out.println("Change 6");
     }
 }
